@@ -99,5 +99,5 @@ app.get('/TestimonialSliderData', function (req, res) {
 app.get('/HomePageData', function (req, res) {
     res.json(HomePageData);
 });
-app.listen(3001);
+app.listen(process.env.PORT);
 console.log("Server On");
