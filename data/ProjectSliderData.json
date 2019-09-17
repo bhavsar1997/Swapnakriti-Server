@@ -1,0 +1,8 @@
+        
+        [
+            {"img": "1.jpg", "sliderTitle": "Construction Management", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"},
+            {"img": "1.jpg", "sliderTitle": "Power and Energy", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"},
+            {"img": "1.jpg", "sliderTitle": "Work Management", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"}
+        ]
+
+

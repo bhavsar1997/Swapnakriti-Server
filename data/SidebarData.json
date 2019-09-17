@@ -1,0 +1,25 @@
+{
+    "categoryData":[
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Renovation"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Architecture"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Concrete Supply"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Laminate Flooring"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Consulting"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Interior Design"},
+        {"categoryLink": "blog-left-sidebar", "categoryName": "Project Planning"}
+    ],
+    "popularPostData":[
+        {"postImage": "sidebar-blog-1.jpg", "postTitle": "What are Groundworkers and what do they do?", "postLink": "blog-details-left-sidebar", "postDate": "30 October 2019"},
+        {"postImage": "sidebar-blog-2.jpg", "postTitle": "What are Groundworkers and what do they do?", "postLink": "blog-details-left-sidebar", "postDate": "30 October 2019"},
+        {"postImage": "sidebar-blog-3.jpg", "postTitle": "What are Groundworkers and what do they do?", "postLink": "blog-details-left-sidebar", "postDate": "30 October 2019"}
+    ],
+    "tagData" : [
+        {"tagLink": "blog-left-sidebar", "tagName": "Renovation"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Architecture"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Concrete"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Flooring"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Consulting"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Interior"},
+        {"tagLink": "blog-left-sidebar", "tagName": "Planning"}
+    ]
+}

@@ -1,0 +1,5 @@
+[
+            {"profileImage": "team-1.jpg", "profileTitle": "Mr. Abc Xyz", "profileDesignation": "CEO & Architech", "profileEmail": "info@example.com", "socialLinks": {"facebook": "//www.facebook.com", "twitter": "//www.twitter.com", "linkedin": "//www.linkedin.com", "googlePlus": "//plus.google.com"}},
+            {"profileImage": "team-2.jpg", "profileTitle": "Ms. Acb Xzy", "profileDesignation": "Chief Engineer", "profileEmail": "info@example.com", "socialLinks": {"facebook": "//www.facebook.com", "twitter": "//www.twitter.com", "linkedin": "//www.linkedin.com", "googlePlus": "//plus.google.com"}},
+            {"profileImage": "team-3.jpg", "profileTitle": "Mrs. Bac Yxz", "profileDesignation": "Project Manager", "profileEmail": "info@example.com", "socialLinks": {"facebook": "//www.facebook.com", "twitter": "//www.twitter.com", "linkedin": "//www.linkedin.com", "googlePlus": "//plus.google.com"}}
+        ]

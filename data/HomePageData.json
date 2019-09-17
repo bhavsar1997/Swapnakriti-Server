@@ -1,0 +1,49 @@
+{
+"HeroSliderOneData":[
+        {"bgImg": "slider3.jpg", "sliderTitle": "Build Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"},
+        {"bgImg": "slider2.jpg", "sliderTitle": "Build Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"},
+        {"bgImg": "slider1.jpg", "sliderTitle": "Build Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"}  
+    ],
+"ServiceGridSliderData":[
+        {"img": "service1.jpg", "iconName": "flaticon-002-welding", "serviceTitle": "Land Minning", "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor", "serviceUrl": "service-details-left-sidebar"},
+        {"img": "service2.jpg", "iconName": "flaticon-004-walkie-talkie", "serviceTitle": "Work Management", "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor", "serviceUrl": "service-details-left-sidebar"},
+        {"img": "service3.jpg", "iconName": "flaticon-015-cart", "serviceTitle": "Material Engineering", "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor", "serviceUrl": "service-details-left-sidebar"},
+        {"img": "service1.jpg", "iconName": "flaticon-010-tank-1", "serviceTitle": "Power and Energy", "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor", "serviceUrl": "service-details-left-sidebar"}
+],
+"FunfactData":[
+    {"img": "funfact-project.png", "countNum" : 598, "countTitle": "Projects" },
+    {"img": "funfact-clients.png", "countNum" : 128, "countTitle": "Clients" },
+    {"img": "funfact-success.png", "countNum" : 114, "countTitle": "Success" },
+    {"img": "funfact-award.png", "countNum" : 109, "countTitle": "Awards" }
+],
+"ProjectSliderData":[
+    {"img": "1.jpg", "sliderTitle": "Construction Management", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"},
+    {"img": "1.jpg", "sliderTitle": "Power and Energy", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"},
+    {"img": "1.jpg", "sliderTitle": "Work Management", "sliderShortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim", "sliderLink": "project-details"}
+],
+"TeamJobData":[
+    {"jobTitle": "Warehouse General Laborer", "jobDesc": "here are many variations of passages", "jobLink": "/"},
+    {"jobTitle": "General Factory Worker", "jobDesc": "here are many variations of passages", "jobLink": "/"},
+    {"jobTitle": "Production Weekender", "jobDesc": "here are many variations of passages", "jobLink": "/"}
+],
+"TestimonialSliderData":[
+    {"testimonialImage": "1.jpg", "testimonialName": "Qwerty Uiop", "testimonialDesignation": "Founder", "testimonialText": "Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"},
+    {"testimonialImage": "3.jpg", "testimonialName": "Asdf Hjkl", "testimonialDesignation": "Engineer", "testimonialText": "Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet."},
+    {"testimonialImage": "2.jpg", "testimonialName": "Zxcv Bnm", "testimonialDesignation": "CEO", "testimonialText": "consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"}
+],
+"BlogGridData":[
+    {"img":"1.jpg", "date":"AUGUST 4, 2019", "title": "Industry Ministry to Hike", "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…", "link":"blog-details-left-sidebar"},
+    {"img":"2.jpg", "date":"AUGUST 5, 2019", "title": "Worker Safety: India Appeals", "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…", "link":"blog-details-left-sidebar"},
+    {"img":"3.jpg", "date":"AUGUST 6, 2019", "title": "Lorem ipsum dolor sit amet.", "postExcerpt": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione eos ex.…", "link":"blog-details-left-sidebar"}
+],
+"BrandLogoSliderData":[
+    {"img": "1.png", "logoLink": "/"},
+    {"img": "2.png", "logoLink": "/"},
+    {"img": "3.png", "logoLink": "/"},
+    {"img": "4.png", "logoLink": "/"},
+    {"img": "1.png", "logoLink": "/"},
+    {"img": "2.png", "logoLink": "/"},
+    {"img": "3.png", "logoLink": "/"},
+    {"img": "4.png", "logoLink": "/"}
+]
+}
