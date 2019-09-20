@@ -2,7 +2,8 @@
 "HeroSliderOneData":[
         {"bgImg": "slider3.jpg", "sliderTitle": "AABuild Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"},
         {"bgImg": "slider2.jpg", "sliderTitle": "BBuild Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"},
-        {"bgImg": "slider1.jpg", "sliderTitle": "CBuild Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"}  
+        {"bgImg": "slider1.jpg", "sliderTitle": "CBuild Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"} ,
+        {"bgImg": "slider1.jpg", "sliderTitle": "DBuild Your Dream With Passion", "sliderSubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.", "btnLink": "contact-us"}  
     ],
 "ServiceGridSliderData":[
         {"img": "service1.jpg", "iconName": "flaticon-002-welding", "serviceTitle": "Land Minning", "serviceExcerpt": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor", "serviceUrl": "service-details-left-sidebar"},
